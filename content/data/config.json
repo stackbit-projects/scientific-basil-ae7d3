@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "Home link",
-                "url": "/home",
+                "url": "/",
                 "altText": "Home link",
                 "style": "link"
             },
